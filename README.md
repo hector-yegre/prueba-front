@@ -12,3 +12,10 @@ luego de clonar el repositorio
  1 yarn install
 
  2 yarn dev
+
+Descripcion 
+
+es un pequeño crud, que nos permite autenticarnos con un token de autenticacion y nos permite crear, eliminar, actualizar y obtener clientes, obtenemos los datos utilizadno axios en formato json.
+
+
+El lado del front se trabajo con vue 3, vue router, tailwind css para los estilos
